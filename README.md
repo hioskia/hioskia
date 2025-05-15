@@ -1,16 +1,13 @@
-## Hi there 👋
+### ☕ Hi there! I'm Hioskia
 
-<!--
-**hioskia/hioskia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently learning Python and JavaScript  
+🎓 Computer Science Student
+🌱 Passionate about Web Development, AI, and Algorithms
 
-Here are some ideas to get you started:
+#### 🚀 Tech Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 GitHub Stats:
+![Hioskia's GitHub stats](https://github-readme-stats.vercel.app/api?username=hioskia&show_icons=true&theme=dark)
