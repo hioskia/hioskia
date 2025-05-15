@@ -2,7 +2,6 @@
 
 💻 Currently learning Python and JavaScript  
 🎓 Computer Science Student
-🌱 Passionate about Web Development, AI, and Algorithms
 
 #### 🚀 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
