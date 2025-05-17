@@ -1,11 +1,10 @@
-### ☕ Hi there! I'm Hioskia
+### ☕ Hioskia here
 
-💻 Currently learning Python and JavaScript  
+💻 Currently learning NodeJS and JavaScript  
 🎓 Computer Science Student
 
 #### 🚀 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 
 #### 📊 GitHub Stats:
